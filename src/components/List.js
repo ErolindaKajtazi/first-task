@@ -4,7 +4,6 @@ import items from './Items';
 
 
 function List() {
-  //Elona is thr best!
     return (
       <div className="items">
         {items.map((item) => (
